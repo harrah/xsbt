@@ -1,4 +1,4 @@
-=== sbt Has Moved ===
+# sbt Has Moved
 
 sbt has moved to https://github.com/sbt/sbt.  Please open pull requests and file issues there.
 
